@@ -57,7 +57,7 @@ The dataset is stored in an Excel file and consists of three sheets:
 ---
 
 ##  Dashboard Preview
-![Dashboard](Dashboard.png)
+![Dashboard](Dashboard/Dashboard.png)
 
 ---
 
